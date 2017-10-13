@@ -1,4 +1,4 @@
 tuto sur python
 ===============
 
-
+il n'y a pas grand chose pour l'instant, à part 2 exo bidon
